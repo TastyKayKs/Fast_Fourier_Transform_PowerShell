@@ -1,7 +1,7 @@
 # Fast_Fourier_Transform_PowerShell
 FFT implemented in PowerShell based on recursive solutions made in python
 
-The function takes an array of either real or complex numbers. I also submitted this to RosettaCode.
+The function takes an array of either real or complex numbers.
 
 ## Usage:
   ```
